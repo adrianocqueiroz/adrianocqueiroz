@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo ao meu perfil! 👋
 
-- 👤 Meu nome é Adriano Queiroz, mas todos me chamam de Dri.
+- 👤 Meu nome é Adriano Queiroz, mais conhecido como Dri.
 - 😄 Pronomes: ele/dele
 - 🌱 Estudante de programação (Engenharia da Computação – Faculdade Uniamérica | Programação WEB Java – Senac e Instituto PROA).
 - 📫 How to reach me: ...
