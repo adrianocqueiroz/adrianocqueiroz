@@ -3,7 +3,14 @@
 - 👤 Meu nome é Adriano Queiroz, mais conhecido como Dri.
 - 😄 Pronomes: ele/dele
 - 🌱 Estudante de programação (Engenharia da Computação – Faculdade Uniamérica | Programação WEB Java – Senac e Instituto PROA).
-- 📫 How to reach me: ...
+- 📫 Poderá entrar em contato comigo: ...
+
+<div> 
+  <a href="https://www.linkedin.com/in/adrianoqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:adrianocsm.queiroz@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
+
+
 
 <div align="center">
   <a href="https://github.com/adrianocqueiroz">
@@ -26,7 +33,4 @@
   
   ##
  
-<div> 
-  <a href="https://www.linkedin.com/in/adrianoqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:adrianocsm.queiroz@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</div>
+
