@@ -27,8 +27,8 @@
 
 <div align="center">
   <a href="https://github.com/adrianocqueiroz">
-  <img width="180px" src="https://github-readme-stats.vercel.app/api?username=adrianocqueiroz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianocqueiroz&layout=compact&langs_count=7&theme=dark"/>
+  <img width="44%" height="176px" src="https://github-readme-stats.vercel.app/api?username=adrianocqueiroz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="44%" height="176px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianocqueiroz&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ### Obrigado!
